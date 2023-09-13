@@ -2,5 +2,5 @@
 
 
 
-* Create a Frontend and a backend folders in the working directory.
-* Create frontend and a backend branches from main and checkout.
+* Create Frontend and backend folders in the working directory.
+* Create frontend and backend branches from main branch and checkout.
